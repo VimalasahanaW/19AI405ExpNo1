@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: VIMALA SAHANA W</h3>
-<h3>Register Number/Staff Id: 212223040241</h3>
+<h3>Register Number: 212223040241</h3>
 
 
 <h3>AIM:</h3>
@@ -244,5 +244,7 @@ if   __name__ == "__main__":
 ![Screenshot 2025-03-24 083528](https://github.com/user-attachments/assets/85429537-2efb-44d4-9578-5a2c4dfac7f5)
 
 ## Result:
+Thus the Developing AI Agent with PEAS Description was implemented using python programming.
+
 
 
